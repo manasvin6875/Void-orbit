@@ -1,0 +1,6 @@
+{
+  "name": "N-ORBIT",
+  "description": "Nothing OS-inspired dot-matrix orbital calendar, dual-track Vernier time scrubber, and procedural pixel-planet quest tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

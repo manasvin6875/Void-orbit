@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">N-ORBIT</string>
+    <string name="mode_orbit">ORBIT // DAY</string>
+    <string name="mode_calendar">CALENDAR // MATRIX</string>
+    <string name="add_task_label">ADD TASK</string>
+    <string name="capsule_time">TIM</string>
+    <string name="capsule_duration">DUR</string>
+    <string name="vernier_clock_watermark">CLOCK</string>
+    <string name="vernier_tags_watermark">TAGS</string>
+    <string name="local_time_caption">Local Time</string>
+    <string name="creator_attribution">@uix.vikram</string>
+    <string name="quest_complete_action">COMPLETE QUEST ✓</string>
+    <string name="quest_completed_state">ORBIT ACTIVE // ROTATING</string>
+    <string name="interval_over_prompt">ZzZ Interval over. What\'s next?</string>
+    <string name="cd_unfold_paper_add">Open perforated red task paper</string>
+    <string name="cd_fold_paper_close">Fold task paper back to cross</string>
+    <string name="cd_creator_avatar">Creator duotone portrait avatar</string>
+</resources>
